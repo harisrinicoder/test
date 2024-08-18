@@ -4,8 +4,9 @@ def add(a, b):
 def sub():
     pass
 
-def mul():
-    pass
+def mul(a,b):
+    return a*b
+    
 
 def div():
     pass

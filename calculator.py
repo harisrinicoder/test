@@ -1,11 +1,12 @@
-def add(x, y):
-    return y+x 
+
+def add(a, b):
+    return a+b
 
 def sub():
     pass
 
-def mul(x,y):
-    return x*y
+def mul(a,b):
+    return a*b
     
 
 def div():
